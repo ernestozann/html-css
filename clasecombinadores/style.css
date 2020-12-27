@@ -1,4 +1,4 @@
-/*combinador child o hijo directo*/
-div > p{
+/*combinador descendiente*/
+div  p{
     color: red;
 }
