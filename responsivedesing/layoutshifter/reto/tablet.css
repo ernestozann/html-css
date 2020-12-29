@@ -1,0 +1,15 @@
+.header{
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo img{
+    width: 30vw;
+}
+.section img{
+    width: 50%;
+}
+.section{
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+}

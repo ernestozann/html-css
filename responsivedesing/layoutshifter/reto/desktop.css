@@ -1,0 +1,16 @@
+.header{
+    flex-direction: row;
+    justify-content: space-between;
+    height: 50px;
+}
+.logo img{
+    width: 60px;
+}
+.section img{
+    width: 25%;
+}
+.section{
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+}
